@@ -1,6 +1,6 @@
-package leetcode;
+package leetcode.Simulation;
 
-class Solution {
+class CountofMatchesinTournament {
     public int numberOfMatches(int n) {
         int result = 0;
         while(n > 1) {
